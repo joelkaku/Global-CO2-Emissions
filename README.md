@@ -1,9 +1,9 @@
 # Global-CO2-Emissions
 ![1](https://github.com/joelkaku/Global-CO2-Emissions/assets/131392907/4e525d8b-7455-48db-ab05-bc7df83f2d7b)
-This project provides an insight into the global trends carbon dioxide emissions, with a focus on Ghana.
-Many are people are familiar with the CO2 emissions dataset which included numerous missing values. I however took the time to 
-fill in most of those data points through google searches, and computed the metrics for the various columns.
-You're welcome🤗🤗
+### This project provides an insight into the global trends carbon dioxide emissions, with a focus on Ghana.
+### Many are people are familiar with the CO2 emissions dataset which included numerous missing values. I however took the time to fill in most of those data points through google searches, and computed the metrics for the various columns.
+### You're welcome🤗🤗.  
+
 
 - Importing the needed libraries:
 ![2](https://github.com/joelkaku/Global-CO2-Emissions/assets/131392907/59769e71-4faf-4cff-acbc-1819e1ed8d7d)
