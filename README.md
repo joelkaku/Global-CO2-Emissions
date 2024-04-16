@@ -6,7 +6,8 @@
 
 
 - Importing the needed libraries:
-![2](https://github.com/joelkaku/Global-CO2-Emissions/assets/131392907/59769e71-4faf-4cff-acbc-1819e1ed8d7d)
+![2](https://github.com/joelkaku/Global-CO2-Emissions/assets/131392907/49cb45cf-e14a-4588-9d1e-daabb38833b2)
+
 
 - Checking the data:
 ![4](https://github.com/joelkaku/Global-CO2-Emissions/assets/131392907/e666bf1d-371f-475c-9e3b-f7bf33ee45dc)
